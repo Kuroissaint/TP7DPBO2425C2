@@ -1,3 +1,9 @@
+#### TP7DPBO2425C2
+
+## Janji
+
+Saya Nafis Asyakir Anjar dengan NIM 2407915 mengerjakan Tugas Praktikum 7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 # 🧪 Potion Shop — RPG Themed Online Store
 
 Website ini mengusung tema **Toko Potion** seperti yang biasa ada di dalam game RPG.  
@@ -71,5 +77,43 @@ Mencatat setiap pembelian yang dilakukan pengguna.
   Satu voucher bisa digunakan di beberapa transaksi.
 
 ---
+## ⚙️ Alur
 
+1. **Menjalankan Website**  
+   User dapat membuka website setelah menyalakan **XAMPP** dan mengaksesnya melalui `localhost`.
+
+2. **Dashboard Utama**  
+   Website akan menampilkan **dashboard** dengan tiga tombol utama:
+   - **Product**
+   - **Voucher**
+   - **Transaction**
+
+3. **Halaman Product**
+   - Melihat daftar potion yang tersedia di toko.  
+   - Mengelola data potion (Edit / Delete).  
+   - Menambahkan potion baru (Add / Create).
+
+4. **Halaman Voucher**
+   - Melihat daftar voucher yang aktif.  
+   - Mengelola data voucher (Edit / Delete).  
+   - Menambahkan voucher baru (Add / Create).
+
+5. **Halaman Transaction**
+   - Melihat riwayat transaksi sebelumnya.  
+   - Menambahkan transaksi baru ( Add / Create).
+
+6. **Alur Sistem**
+   - Setiap aksi pada website akan diterima oleh **`index.php`**.  
+   - Class OOP akan memproses instruksi tersebut dan berinteraksi dengan **database**.  
+   - Hasil proses akan dikembalikan ke **`index.php`** untuk kemudian ditampilkan di browser.
+
+---
+
+✨ *Simple structure, clean flow, and fully object-oriented!* ✨
+
+
+
+## 🎞 Dokumentasi
+
+https://github.com/user-attachments/assets/c7dd9a7f-d851-4c99-b4c6-7e9a0c6c6943
 
